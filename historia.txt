@@ -5,3 +5,5 @@ Bredy trabajando con git.
 github se almacena en la nube, completa
 
 bredy es muy inteligente
+
+hoy es el ceo de platzi
