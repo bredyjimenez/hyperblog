@@ -3,3 +3,5 @@ bredy iniciando a tirar lineas.
 Bredy trabajando con git.
 
 github se almacena en la nube, completa
+
+bredy es muy inteligente
